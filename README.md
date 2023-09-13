@@ -1,5 +1,5 @@
 # Bootstrap-2023
 Un pequeño aprendizaje del framework bootstrap
 
-Aqui te dejo el link de Github Pages para que puedas revisarlo
+here's the link to you can see the preview
 https://gerardopachecomesinas.github.io/Bootstrap-2023/
